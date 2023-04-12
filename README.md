@@ -1,0 +1,1 @@
+After many trials and error I found the missing link using visibility and display together to create a nice transition card. I can finnaly input the learned code into my ungoing porfolio project. Grit mindset rocks!!!
